@@ -1,1 +1,1 @@
-# Practical Quantum Computing 2024
+# Practical Quantum Computing Lecture 2024
